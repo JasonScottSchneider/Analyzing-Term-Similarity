@@ -1,6 +1,6 @@
 # Analyzing-Term-Similarity
-This is a program written in Python to load any csv with texts and measure character similarities among each word. Try entering the <strong>Believe</strong> for the root word and the CSV named <em>test_doc.csv</em>.
-
+<p>This is a program written in Python to load any csv with texts and measure character similarities among each word. Try entering the <strong>Believe</strong> for the root word and the CSV named <em>test_doc.csv</em>.</p>
+<p>If you would like to know more about the Levenshtein distance algorithm, I suggest reading this article: https://www.baeldung.com/cs/levenshtein-distance-computation</p>
 <p>If you try the csv provided here, you should see results like that below.</p>
 <p>These results show the Unicode value for each character.</p>
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results1.jpg" />

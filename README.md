@@ -9,3 +9,5 @@ This is a program written in Python to load any csv with texts and measure chara
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_2.jpg" />
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_3.jpg" />
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_4.jpg" />
+<p>It is interesting to see that switching the order of letters changes the distance measure as shown below among <strong>believe</strong>, <strong>beleive</strong>, and <strong>belevie</strong>.
+<img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results3.jpg" />

@@ -8,5 +8,5 @@ This is a program written in Python to load any csv with texts and measure chara
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_1.jpg" />
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_2.jpg" />
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results2_3.jpg" />
-<p>It is interesting to see that switching the order of letters changes the distance measure as shown below among <strong>believe</strong>, <strong>beleive</strong>, and <strong>belevie</strong>.
+<p>It is interesting to see that switching the order of letters changes the distance measure as shown below among <strong>believing</strong>, <strong>believe</strong>, <strong>beleive</strong>, and <strong>belevie</strong>. This shows that the Levenshtein distance is not just making assumption on whether a word has the same characters, but it is measuring the order that characters occur, too.
 <img src="https://raw.githubusercontent.com/JasonScottSchneider/Analyzing-Term-Similarity/master/documentation/results3.jpg" />
